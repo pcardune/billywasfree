@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+title: 'Billy Was Free'
+author: 'Billy Parham'
+description: 'A thought experiment.'
+email: 'billy@billywasfree.com'
+theme: minima
