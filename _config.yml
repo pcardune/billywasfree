@@ -3,3 +3,5 @@ author: 'Billy Parham'
 description: 'A thought experiment.'
 email: 'billy@billywasfree.com'
 theme: minima
+plugins:
+  - jekyll-feed
